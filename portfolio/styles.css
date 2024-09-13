@@ -32,3 +32,12 @@
     justify-content: end;
     width: 90%;
 }
+
+#introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
